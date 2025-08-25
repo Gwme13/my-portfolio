@@ -1,0 +1,1 @@
+Copyright (c) 2025 Mattia Gemelli. All Rights Reserved.
