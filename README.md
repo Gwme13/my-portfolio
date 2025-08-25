@@ -45,3 +45,8 @@ To run this project locally, follow these simple steps:
     ```bash
     npm run build
     ```
+## ✍️ Author
+
+* **Mattia Gemelli**
+* **GitHub**: [Gwme13](https://github.com/Gwme13)
+* **LinkedIn**: [Mattia Gemelli](https://www.linkedin.com/in/mattia-gemelli)
