@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/486b4b05-cdaa-421d-bc41-063045cef53d/deploy-status)](https://app.netlify.com/projects/gemelli-mattia-portfolio/deploys)
+
 <div align="center">
 
 # My Portfolio
